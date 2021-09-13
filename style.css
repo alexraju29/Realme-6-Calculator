@@ -1,13 +1,13 @@
 .calc{
     width: 424px;
-    height: 942px;
+    height: 840px;
     background:rgb(63, 62, 63);
     margin-left: -8px;
     margin-top: -8px;
 
 }
 .title{
-    margin-left: 118px;
+    margin-left: 130px;
     margin-top: 0px;
     font-size: 20px;
     color: honeydew;
@@ -18,7 +18,7 @@
 }
 #screen{
     margin-left: 6px;
-    width: 380px;
+    width: 394px;
     height: 170px;
     border-radius: 5px;
     border-color: rgb(3, 1, 1);
@@ -31,12 +31,12 @@
 }
 .buttons{
   padding-left: 4px;
-  padding-top: 90px;
+  padding-top: 52px;
 }
 .btn{
     width: 90px;
-    height: 98px;
-    margin: 4px;
+    height: 85px;
+    margin: 6px;
     border-radius: 6px;
     background: gray;
     font-size: 20px;
