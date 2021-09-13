@@ -7,7 +7,7 @@
 
 }
 .title{
-    margin-left: 76px;
+    margin-left: 118px;
     margin-top: 0px;
     font-size: 20px;
     color: honeydew;
@@ -18,7 +18,7 @@
 }
 #screen{
     margin-left: 6px;
-    width: 286px;
+    width: 380px;
     height: 170px;
     border-radius: 5px;
     border-color: rgb(3, 1, 1);
@@ -30,12 +30,12 @@
     font-weight: bold;
 }
 .buttons{
-  padding-left: 6px;
+  padding-left: 4px;
   padding-top: 90px;
 }
 .btn{
-    width: 65px;
-    height: 52px;
+    width: 90px;
+    height: 98px;
     margin: 4px;
     border-radius: 6px;
     background: gray;
