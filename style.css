@@ -1,0 +1,43 @@
+.calc{
+    width: 424px;
+    height: 942px;
+    background:rgb(63, 62, 63);
+    margin-left: -8px;
+    margin-top: -8px;
+
+}
+.title{
+    margin-left: 76px;
+    margin-top: 0px;
+    font-size: 20px;
+    color: honeydew;
+    padding-top: 20px;
+}
+.brand{
+    margin-top: 0px;
+}
+#screen{
+    margin-left: 6px;
+    width: 286px;
+    height: 170px;
+    border-radius: 5px;
+    border-color: rgb(3, 1, 1);
+    pointer-events: none;
+    margin-bottom: 17px;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.buttons{
+  padding-left: 6px;
+  padding-top: 90px;
+}
+.btn{
+    width: 65px;
+    height: 52px;
+    margin: 4px;
+    border-radius: 6px;
+    background: gray;
+    font-size: 20px;
+}
